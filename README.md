@@ -5,4 +5,5 @@
 ![Delete](Delete.png)
 ##Hasil Program Update
 ![Update](Update.png)
-
+##Hasil Program Pengolahan Nilai Mahasiswa
+![Update](PengolahanNilaiMahasiswa.png)
